@@ -3,9 +3,5 @@
   "packageManager": "yarn@4.6.0",
   "dependencies": {
     "express": "^5.1.0"
-  },
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
   }
 }
